@@ -1,4 +1,4 @@
-website link from where data was extracted: [https://www.airlinequality.com/airline-reviews/british-airways].
+website link from which data was extracted: [https://www.airlinequality.com/airline-reviews/british-airways].
 
 Jupyter Notebook and Google Colab was used for this project.
 
